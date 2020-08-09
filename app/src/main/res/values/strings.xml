@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cocktail App</string>
+    <string name="about">About</string>
+
+    <string name="cocktail_name">Cocktail Name</string>
+    <string name="cocktail_image">Cocktail Image</string>
+    <string name="cocktail_ingredients">Cocktail Ingredients</string>
+    <string name="cocktail_instructions">Cocktail Instructions</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="instructions">Instructions :</string>
+
+    <string name="name">Bahri Rizaldi</string>
+    <string name="email">bahri.rizaldi13@gmail.com</string>
+</resources>
